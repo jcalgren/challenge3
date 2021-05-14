@@ -1,0 +1,147 @@
+body{
+  background: #F1F0EE;
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family:'ariel', sans-serif;
+  font size:16px;
+  text-align:center;
+
+}
+
+  p{
+
+    text-align:center;
+   
+
+  }
+h1{
+text-align: center;
+
+}
+
+input[type="text"], input[type="button"], textarea {
+  background-color: #F1F0EE; 
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 1rem;
+  padding:5px;
+
+}
+
+input[type="button"] {
+  background-color: #0974d9;
+  color: #ffffff;
+  font-size: 0.875rem;
+
+}
+
+input[type="button"]:hover{
+  background-color:#084883;
+  color:white;
+}
+
+#header{
+  height:60px;
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:#000000;
+  opacity:0.8;
+  padding:10px;
+
+
+}
+
+#header img{
+  display:block;
+  width:200px;
+  height:25px;
+}
+
+#map{
+  height:200px;
+
+}
+
+.item2{
+height:1fr;
+max-width:1fr;
+align-content:center;
+border-radius: 0.3rem;
+ margin:15px;
+padding:15px;
+
+}
+
+.item1{
+ display: block;
+ background-color:#021a30;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 0.3rem;
+  margin:auto;
+  padding: 1rem;
+  opacity:0.9;
+  
+
+}
+
+.item3{
+display:flex;
+  min-height: 3rem;
+  border-radius: 0.3rem;
+  background-color:#021a30;
+  text-align: center;
+ margin:15px;
+  padding:15px;
+  color:#ffffff;
+  max-width:auto;
+
+}
+
+.item4{
+  display:flex;
+  min-height: 3rem;
+  border-radius: 0.3rem;
+  background-color:#021a30;
+  text-align: center;
+   margin:15px;
+  padding:15px;
+  color: #ffffff;
+  max-width:auto;
+
+}
+
+.item5{
+display:flex;
+  min-height: 3rem;
+  border-radius: 0.3rem;
+  
+  background-color:#021a30;
+  text-align: center;
+   margin:15px;
+  padding:15px;
+  color: #ffffff;
+  max-width:auto;
+
+}
+.item6{
+display:flex;
+  min-height: 3rem;
+  border-radius: 0.3rem;
+  background-color:#021a30;
+  text-align: center;
+  margin:15px;
+  padding:15px;
+  color: #ffffff;
+  max-width:auto;
+
+}
